@@ -1,0 +1,168 @@
+#top_bar {
+	background-color: #2e2e2e;
+}
+
+li.toplist {
+	border: none;
+	padding: 12px 5px 12px 5px;
+	background-color: #2e2e2e;
+}
+
+#topa {
+	color: #9f9f9f;
+}
+
+#topa:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+i {
+	border: solid 10px #787878;
+	color: #ffffff;
+	border-radius: 100%;
+	background-color: #787878;
+}
+
+/** Navigacija **/
+
+.navi {
+	padding-left: 0;
+}
+
+a#active {
+	border-bottom: solid 5px #0099ff;
+	margin-right: 10px;
+}
+
+a#link {
+	margin-right: 10px;
+}
+
+a#link:hover {
+	border-bottom: solid 5px #0099ff;
+}
+
+/** Logo search **/
+
+.logo-search {
+	width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+.Search {
+	margin-top: 25px;
+}
+
+input.form-control {
+	background-color: #f1f1f1;
+	border:none;
+}
+
+button.top {
+	background-color: #0099ff;
+	height: 38px;
+	width: 76px;
+	color: #ffffff;
+	border: none;
+}
+
+button.top:hover {
+	background-color: #0099ff;
+	height: 38px;
+	width: 76px;
+}
+
+
+/** Title Carousel */
+
+div#title {
+	background-color: #f1f1f1;
+	border-top: 5px solid #e9e9e9;
+	border-bottom: 5px solid #f1f1f1;
+	margin-bottom: 40px;
+}
+
+div#carouselExampleIndicators {
+	float: right;
+}
+
+/** Sekcija su didele photo ir 4 laukais */
+
+h5#antraste {
+	color: #0099ff;
+	font-size: 18px;
+	margin-top: 5px;
+}
+
+a#antraste:hover {
+	text-decoration: none;
+}
+
+/* contact button */
+
+div.jumbotron {
+	padding: 8px 0;
+	border-left: 10px solid #0099ff;
+	margin: 0 47.5px;
+	margin-bottom: 40px;
+}
+
+button.contact {
+	font-size: 30px;
+	margin-top: 24px;
+}
+
+/** Footeris */
+
+div.footer {
+	background-color: #1a1a1a;
+	padding-top: 40px;
+}
+
+li.footer-list {
+	background-color: #1a1a1a;
+	list-style-type: circle;
+	padding: 6px 20px;
+	border-bottom: 1px solid #666666;
+}
+
+h5.footer-antraste {
+	color: #ffffff;
+	margin-bottom: 35px;
+}
+
+#footer-text{
+	color: #666666;
+}
+
+img.img-fluid {
+	margin-bottom: 20px;
+}
+
+#reads {
+	float: right;
+}
+
+b.post-title {
+	color: #666666;
+}
+
+p.who {
+	color: #666666;
+	font-size: 12px;
+}
+
+input.input {
+	background-color: #232323;
+}
+
+textarea.form-control {
+	background-color: #232323;
+	border: none;
+}
